@@ -1,1 +1,1 @@
-# Clicked_Ads_Prediction_using_Linear_Regression
+# Clicked Ads Prediction using Logistic Regression
